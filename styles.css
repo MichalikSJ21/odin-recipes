@@ -1,0 +1,49 @@
+.title {
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-weight: 400;
+}
+
+ul {
+    font-size: 12px;
+    font-family: 'Times New Roman', 'Courier New', 'sans-serif';
+    color: rgb(0, 26, 255);
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    font-weight: 100;
+    list-style-position: inside;
+
+}
+
+ol {
+    font-size: 12px;
+    font-family: 'Times New Roman', 'Courier New', 'sans-serif';
+    color: rgb(0, 26, 255);
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+    font-weight: 100;
+    list-style-position: inside;
+
+
+}
+
+img {
+    border: 20px;
+    height: 500px;
+    width: 750px;
+    text-align: center;
+
+}
+
